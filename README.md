@@ -4,5 +4,5 @@
 
 ### Jodie Alvinez, Stephany Ayala-Cerna, Oliver Huang, Be-Emnet Elias, Evan Murphy, Benjamin Snitzer
 
-![Circuit](https://github.com/clowdur/jobbes/blob/main/system_jobbes.png?raw=true)
+![Circuit](https://github.com/clowdur/jobbes/blob/main/img/system_jobbes.png?raw=true)
 
