@@ -1,3 +1,5 @@
+# Modified from [this repo](https://randomnerdtutorials.com/install-mediapipe-raspberry-pi/) by [Rui Santos](https://github.com/RuiSantosdotme)
+# Following [this tutorial](https://randomnerdtutorials.com/install-mediapipe-raspberry-pi/)
 # MediaPipe Gesture Recognizer example with Raspberry Pi
 
 This example uses [MediaPipe](https://github.com/google/mediapipe) with Python on
