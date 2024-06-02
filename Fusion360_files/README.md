@@ -1,5 +1,4 @@
-# CAD files for project jobbes
-# Designed for 3D printing
+# CAD files for project jobbes, designed for 3D printing
 ## Mount system by Jodie Alvinez
 ## Base housing by Stephany Ayala-Cerna
 
