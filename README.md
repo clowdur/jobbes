@@ -10,7 +10,7 @@ Final Deliverable            |  Circuit
 
 | <div style="width:290px">Final Deliverable</div> | Circuit                          |
 | --------------------------------------- | ------------------------------------- |
-| ![Product](https://github.com/clowdur/jobbes/blob/main/img/jobbes.jpg)  |  ![Circuit](https://github.com/clowdur/jobbes/blob/main/img/system_jobbes.png) |
+| <div style="width:290px">![Product](https://github.com/clowdur/jobbes/blob/main/img/jobbes.jpg)</div>  |  ![Circuit](https://github.com/clowdur/jobbes/blob/main/img/system_jobbes.png) |
 
 
 
