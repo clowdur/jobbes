@@ -8,6 +8,10 @@ Final Deliverable            |  Circuit
 :-------------------------:|:-------------------------:
 ![Product](https://github.com/clowdur/jobbes/blob/main/img/jobbes.jpg)  |  ![Circuit](https://github.com/clowdur/jobbes/blob/main/img/system_jobbes.png)
 
+| <div style="width:290px">property</div> | description                           |
+| --------------------------------------- | ------------------------------------- |
+| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
+
 
 
 
